@@ -2,23 +2,22 @@
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is exploring data from Glasstire data sources. From that, we analyzed it and delivered some meaningful results.
+The purpose of this project is exploring, analyzing, and delivering meaningful result from Glasstire data sources.
 
-### Project members
+## Project members
 * Huy Bui
 * Matthew Danielson
 * Patrick Ly
 * Ali Rasheed
 
 
-### Technologies
+## Technologies
 * Jupyter notebook
-* Pandas
+* Pandas,numpy
 * Tableau
 
 
 ## Getting Started
-
 1. Clone this repo 
 2. Look at our code using Jupyter Notebook
 
