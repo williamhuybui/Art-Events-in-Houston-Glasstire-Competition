@@ -4,7 +4,7 @@
 ## Project Intro/Objective
 The purpose of this project is exploring, analyzing, and delivering meaningful result from Glasstire data sources.
 
-## Project members
+## Team: βαλesΙαη  βθγs
 * Huy Bui
 * Matthew Danielson
 * Patrick Ly
