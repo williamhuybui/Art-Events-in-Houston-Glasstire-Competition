@@ -1,3 +1,4 @@
+![Event Concentration by Zipcode](https://github.com/williamhuybui/Art-Events-in-Houston-Glasstire-Competition/blob/master/Picture/glasstire_Logo.png)
 # Glasstire DataHack
 
 **TL;DR** - A competition hosted to draw insights and visualizations about the Houston art scene. Team was able to conduct great EDA about the Houston art to highlight major art scene trends.   
@@ -37,6 +38,7 @@ From this visualization we see that there seems to be a very sporadic activity o
 We attempt to map the locations of art venue against population income to see if there was a trend between concentration of art venues to general populace wealth of an area. Even though art concentrated areas have good value such as the Museum District we found there was additional factors incluenced the population income of an area so nothing profoundly conclusive could be formulated from these graphs.
 
 However, in creating this visualization we did make a visual appealing plots :).
+![Event Concentration by Zipcode](https://github.com/williamhuybui/Art-Events-in-Houston-Glasstire-Competition/blob/master/Picture/income.png)
 
 [**Venue to Income Tract Plot**](https://public.tableau.com/profile/patrick.m.ly#!/vizhome/GlassTire-VenuesbyIncomeTract/Sheet4)    
 [**Venue to Population Income Plot**](https://public.tableau.com/profile/patrick.m.ly#!/vizhome/GlassTire-VenueLocationsbyPopulation/Sheet2)  
